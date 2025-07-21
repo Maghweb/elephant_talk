@@ -3,7 +3,7 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 
 **This repo contains the data collected through the Elephant Talk survey that ran until April 30th, 2025**. The survey has been administered through the open-source and GDPR-compliant platform [FormBricks](https://formbricks.com/). The survey was sent in 8 different language versions: Catalan, Croatian, Greek, Italian, Portuguese, Romanian, Slovenian, and Spanish. A total of 1.395 respondents began the survey, of which 706 (51%) completed all questions. The process of combining the 8 survey response files, one for each language, in a single cleaned English file has been achieved with a mix of Python, manual data cleaning, and assistance from Claude.ai, as detailed in the "Data Cleaning Documentation" file.
 
-👉 See full survey results: [stophatespeech.eu](www.stophatespeech.eu)
+# 👉 See full survey results: [stophatespeech.eu](www.stophatespeech.eu)
 
 ## Index:
 
