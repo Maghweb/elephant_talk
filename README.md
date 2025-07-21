@@ -14,10 +14,10 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 ## Repo contents
 
 ### RESULT FILES
-- The raw data files: one file for each language result, as outputted by FormBricks on April 30th, 2025.
-- The combined and translated result file; WIDE FORMAT: In this file, all language responses from the 8 files are combined, and each question contains both the original response and the translated response (with the suffix "_EN" in the column name. Multiple choice answers are separated by a pipe character ("|")
-- The combined and translated result file; LONG FORMAT: In this file, there is one row for each response (english translation) given by each participant to each question.
-- Frequency file: This file contains the number of responses (absolute and %) for each answer, with combined breakdowns by language, age and gender (only M / F / Non-binary), other than totals. It includes only the questions used in the analysis narrated in [the project's website](https://www.stophatespeech.eu). It is meant as a file to facilitate analysis and visualizations for those who don't have the time or expertise to process the original survey files.
+- The raw data files: one file for each language result, as outputted by FormBricks on April 30th, 2025. Includes also unfinished surveys which have been excluded from the analysis.
+- The combined and translated result file; WIDE FORMAT: In this file, all language responses from the 8 files are combined, and each question contains both the original response and the translated response (with the suffix "_EN" in the column name. Multiple choice answers are separated by a pipe character ("|"). Includes also unfinished surveys which have been excluded from the analysis.
+- The combined and translated result file; LONG FORMAT: In this file, there is one row for each response (english translation) given by each participant to each question. Includes also unfinished surveys which have been excluded from the analysis.
+- Frequency file: This file contains the number of responses (absolute and %) for each answer, with combined breakdowns by language, age and gender (only M / F / Non-binary), other than totals. It includes only the questions used in the analysis narrated in [the project's website](https://www.stophatespeech.eu). It is meant as a file to facilitate analysis and visualizations for those who don't have the time or expertise to process the original survey files. **Note that, just like in the analysis, the frequencies are calculated only among finished surveys**
 
 ### META
 - Documentation of the data cleaning process
