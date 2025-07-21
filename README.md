@@ -10,6 +10,7 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 - [What data you will find in this repo](#repo-contents)
 - [Overview of the survey structure](#survey-structure)
 - [Methodological note when interpreting results](#methodological-note)
+- [Project Funding](#project-funding)
 
 ## Repo contents
 
@@ -111,4 +112,7 @@ The patterns observed offer interesting insights, but should be understood as ex
 The Romanian survey stands out because of the marked presence of a male young demographic of university students (41% of respondents are male vs. an average of 27%; 86% of respondents are 15-18 vs. an average of 32%; 85% are studying in university vs. an average of 31%).  Because the Romanian survey also contains the most responses (165), its unique dynamics are impacting the overall results more than those of other countries.
 
 For all these reasons, the analysis should be valued mostly not for its statistical relevance but because it revealed potential areas and angles that could be further assessed through larger studies or actions. More importantly, the surveys served as a means to actively engage young people with the issue, representing a valuable exercise in building awareness and self-reflection.
-
+____
+## Project funding
+The Elephant Talk project is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
+<img width="450" height="95" alt="eu" src="https://github.com/user-attachments/assets/42744d1a-e0b4-4d78-92d5-4a65c906c471" />
