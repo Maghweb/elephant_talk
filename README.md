@@ -13,37 +13,45 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 
 ## Repo contents
 
-### RESULT FILES
-- The raw data files: one file for each language result, as outputted by FormBricks on April 30th, 2025. Includes also unfinished surveys which have been excluded from the analysis.
-- The combined and translated result file; WIDE FORMAT: In this file, all language responses from the 8 files are combined, and each question contains both the original response and the translated response (with the suffix "_EN" in the column name. Multiple choice answers are separated by a pipe character ("|"). Includes also unfinished surveys which have been excluded from the analysis.
-- The combined and translated result file; LONG FORMAT: In this file, there is one row for each response (english translation) given by each participant to each question. Includes also unfinished surveys which have been excluded from the analysis.
-- Frequency file: This file contains the number of responses (absolute and %) for each answer, with combined breakdowns by language, age and gender (only M / F / Non-binary), other than totals. It includes only the questions used in the analysis narrated in [the project's website](https://www.stophatespeech.eu). It is meant as a file to facilitate analysis and visualizations for those who don't have the time or expertise to process the original survey files. **Note that, just like in the analysis, the frequencies are calculated only among finished surveys**
+### DATA FILES
+#### 1. The raw data files
+One file for each language result, as outputted by FormBricks on April 30th, 2025. Includes also unfinished surveys which have been excluded from the analysis.
+The language codes are the following, used throughout all files
+
+| code | language |
+|---------------|--------------|
+| cat | Catalan            |
+| esp | Spanish            |
+| gr | Greek            |
+| hr | Croatian            |
+| it | Italian            |
+| pt | Portuguese            |
+| ro | Romanian            |
+| slo | Slovenian            |
+
+#### 2. Combined and translated result file - WIDE FORMAT
+In this file, all language responses from the 8 files are combined, and each question contains both the original response and the translated response (with the suffix "_EN" in the column name. Multiple choice answers are separated by a pipe character ("|"). The file includes also unfinished surveys which have been excluded from the analysis.
+<img width="894" height="321" alt="wide" src="https://github.com/user-attachments/assets/58099ce4-ef47-44c4-b51c-36f798042bf3" /><br>
+
+#### 3. Combined and translated result file - LONG FORMAT
+In this file, there is one row for each response (english translation) given by each participant to each question. The file includes also unfinished surveys which have been excluded from the analysis.
+<img width="349" height="247" alt="long" src="https://github.com/user-attachments/assets/90d19a8d-2642-4d6e-a29a-2c0c18b418e3" /><br>
+
+#### 4. Frequency file
+This file contains the number of responses (absolute and %) for each answer, with combined breakdowns by language, age and gender (only M / F / Non-binary), along with the overall totals. The file  includes only the questions used in the analysis narrated in [the project's website](https://www.stophatespeech.eu). This file is meant as a file to facilitate analysis and visualizations for those who don't have the time or expertise to process the original survey files. **Note that, just like in the analysis, the frequencies are calculated only among finished surveys**
+<img width="750" height="416" alt="Screenshot 2025-07-21 at 14 18 31" src="https://github.com/user-attachments/assets/53746d7f-6088-48a1-b982-54c0df179995" /><br>
 
 ### META
-- Documentation of the data cleaning process
-- Question dictionary: .csv file with the English translation and the original text of all the questions contained in the survey
-- Answer dictionary: .csv file with the English translation and the original text of all the answers contained in the survey, including free text answers
+#### 1. Documentation of data processing
+This document details the processing of the survey data. The goal of the document is to foster transparency around the processing of the data, both to promote replicability and to spur reflections about areas for improvement in the data collection for future work. 
 
-#### Example of contents:
-
-*<img width="894" height="321" alt="wide" src="https://github.com/user-attachments/assets/58099ce4-ef47-44c4-b51c-36f798042bf3" /><br>
-*The result file, wide format*
-<br>
-<br>
-<img width="349" height="247" alt="long" src="https://github.com/user-attachments/assets/90d19a8d-2642-4d6e-a29a-2c0c18b418e3" /><br>
-*The result file, wide format*
-<br>
-<br>
-<img width="750" height="416" alt="Screenshot 2025-07-21 at 14 18 31" src="https://github.com/user-attachments/assets/53746d7f-6088-48a1-b982-54c0df179995" />
-*The frequency breakdowns file*
-<br>
-<br>
+#### 2. Question dictionary 
+A .csv file with the English translation and the original text of all the questions contained in the survey. The file has been used to translate the language surveys into the translated combined file.
 <img width="1280" height="291" alt="q_dict" src="https://github.com/user-attachments/assets/9f6dca77-57aa-4262-835e-a8378dbd4485" /><br>
-*The question dictionary file*
-<br>
-<br>
+
+#### 3. Answer dictionary 
+A .csv file with the English translation and the original text of all the answers contained in the survey, including free text answers. The file has been used to translate the language surveys into the translated combined file.
 <img width="865" height="299" alt="a_dict" src="https://github.com/user-attachments/assets/a2439e79-f158-4853-b77d-f473db25ed5d" /><br>
-*The answer dictionary file*
 
 ## Survey structure
 The survey consists of 27 questions, of the following types:
