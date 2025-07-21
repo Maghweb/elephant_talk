@@ -24,11 +24,14 @@ This repo contains the data collected through the Elephant Talk survey that ran 
 *<img width="894" height="321" alt="wide" src="https://github.com/user-attachments/assets/58099ce4-ef47-44c4-b51c-36f798042bf3" /><br>
 *The result file, wide format*
 <br>
+<br>
 <img width="349" height="247" alt="long" src="https://github.com/user-attachments/assets/90d19a8d-2642-4d6e-a29a-2c0c18b418e3" /><br>
 *The result file, wide format*
 <br>
+<br>
 <img width="1280" height="291" alt="q_dict" src="https://github.com/user-attachments/assets/9f6dca77-57aa-4262-835e-a8378dbd4485" /><br>
 *The question dictionary file*
+<br>
 <br>
 <img width="865" height="299" alt="a_dict" src="https://github.com/user-attachments/assets/a2439e79-f158-4853-b77d-f473db25ed5d" /><br>
 *The answer dictionary file*
