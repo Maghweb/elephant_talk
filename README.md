@@ -5,7 +5,7 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 
 ## About this repo
 
-This repo contains the data collected through the Elephant Talk survey that ran until April 30th, 2025. The survey has been administered through the open-source and GDPR-compliant platform [FormBricks(https://formbricks.com/). The survey was sent in 8 different language versions: Catalan, Croatian, Greek, Italian, Portuguese, Romanian, Slovenian, and Spanish. The process of combining the 8 survey response files, one for each language, in a single cleaned English file has been achieved with a mix of Python, manual data cleaning, and assistance from Claude.ai, as detailed in the "Data Cleaning Documentation" file.
+This repo contains the data collected through the Elephant Talk survey that ran until April 30th, 2025. The survey has been administered through the open-source and GDPR-compliant platform [FormBricks](https://formbricks.com/). The survey was sent in 8 different language versions: Catalan, Croatian, Greek, Italian, Portuguese, Romanian, Slovenian, and Spanish. The process of combining the 8 survey response files, one for each language, in a single cleaned English file has been achieved with a mix of Python, manual data cleaning, and assistance from Claude.ai, as detailed in the "Data Cleaning Documentation" file.
 
 ### In this repo you will find:
 
@@ -21,14 +21,14 @@ This repo contains the data collected through the Elephant Talk survey that ran 
 
 **Example of contents:**
 
-*<img width="894" height="321" alt="wide" src="https://github.com/user-attachments/assets/58099ce4-ef47-44c4-b51c-36f798042bf3" />
+*<img width="894" height="321" alt="wide" src="https://github.com/user-attachments/assets/58099ce4-ef47-44c4-b51c-36f798042bf3" /><br>
 *The result file, wide format*
-
-<img width="349" height="247" alt="long" src="https://github.com/user-attachments/assets/90d19a8d-2642-4d6e-a29a-2c0c18b418e3" />
+<br>
+<img width="349" height="247" alt="long" src="https://github.com/user-attachments/assets/90d19a8d-2642-4d6e-a29a-2c0c18b418e3" /><br>
 *The result file, wide format*
-
-<img width="1280" height="291" alt="q_dict" src="https://github.com/user-attachments/assets/9f6dca77-57aa-4262-835e-a8378dbd4485" />
+<br>
+<img width="1280" height="291" alt="q_dict" src="https://github.com/user-attachments/assets/9f6dca77-57aa-4262-835e-a8378dbd4485" /><br>
 *The question dictionary file*
-
-<img width="865" height="299" alt="a_dict" src="https://github.com/user-attachments/assets/a2439e79-f158-4853-b77d-f473db25ed5d" />
+<br>
+<img width="865" height="299" alt="a_dict" src="https://github.com/user-attachments/assets/a2439e79-f158-4853-b77d-f473db25ed5d" /><br>
 *The answer dictionary file*
