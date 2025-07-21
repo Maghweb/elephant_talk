@@ -3,7 +3,7 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 
 **This repo contains the data collected through the Elephant Talk survey that ran until April 30th, 2025**. The survey has been administered through the open-source and GDPR-compliant platform [FormBricks](https://formbricks.com/). The survey was sent in 8 different language versions: Catalan, Croatian, Greek, Italian, Portuguese, Romanian, Slovenian, and Spanish. A total of 1.395 respondents began the survey, of which 706 (51%) completed all questions. The process of combining the 8 survey response files, one for each language, in a single cleaned English file has been achieved with a mix of Python, manual data cleaning, and assistance from Claude.ai, as detailed in the "Data Cleaning Documentation" file.
 
-# 👉 See full survey results: [stophatespeech.eu](www.stophatespeech.eu)
+# 👉 See full survey results: [stophatespeech.eu](https://www.stophatespeech.eu)
 
 ## Index:
 
@@ -17,6 +17,7 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 - The raw data files: one file for each language result, as outputted by FormBricks on April 30th, 2025.
 - The combined and translated result file; WIDE FORMAT: In this file, all language responses from the 8 files are combined, and each question contains both the original response and the translated response (with the suffix "_EN" in the column name. Multiple choice answers are separated by a pipe character ("|")
 - The combined and translated result file; LONG FORMAT: In this file, there is one row for each response (english translation) given by each participant to each question.
+- Frequency file: This file contains the number of responses (absolute and %) for each answer, with combined breakdowns by language, age and gender (only M / F / Non-binary), other than totals. It includes only the questions used in the analysis narrated in [the project's website](https://www.stophatespeech.eu). It is meant as a file to facilitate analysis and visualizations for those who don't have the time or expertise to process the original survey files.
 
 ### META
 - Documentation of the data cleaning process
