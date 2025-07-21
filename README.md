@@ -40,7 +40,7 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 <img width="865" height="299" alt="a_dict" src="https://github.com/user-attachments/assets/a2439e79-f158-4853-b77d-f473db25ed5d" /><br>
 *The answer dictionary file*
 
-## Survey overview
+## Survey structure
 The survey consists of 27 questions, of the following types:
 
 ### Question types
@@ -54,7 +54,7 @@ The survey consists of 27 questions, of the following types:
 | ranking       | 1            |
 
 
-*1 of the 9 single select questions also included a “Other, specify” option, which could be populated with free text*
+*1 of the 9 single select questions also included a “Other, specify” option, which could be populated with free text*<br>
 *8 of the 9 multi select questions also included a “Other, specify” option, which could be populated with free text*
 
 ### Questions
