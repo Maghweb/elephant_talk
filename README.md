@@ -115,4 +115,4 @@ For all these reasons, the analysis should be valued mostly not for its statisti
 ____
 ## Project funding
 The Elephant Talk project is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.<br>
-<img width="90" height="19" alt="eu" src="https://github.com/user-attachments/assets/42744d1a-e0b4-4d78-92d5-4a65c906c471" />
+<img width="270" height="57" alt="eu" src="https://github.com/user-attachments/assets/42744d1a-e0b4-4d78-92d5-4a65c906c471" />
