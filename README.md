@@ -34,6 +34,10 @@ Elephant Talk is a youth active citizenship project created by Maghweb in collab
 *The result file, wide format*
 <br>
 <br>
+<img width="750" height="416" alt="Screenshot 2025-07-21 at 14 18 31" src="https://github.com/user-attachments/assets/53746d7f-6088-48a1-b982-54c0df179995" />
+*The frequency breakdowns file*
+<br>
+<br>
 <img width="1280" height="291" alt="q_dict" src="https://github.com/user-attachments/assets/9f6dca77-57aa-4262-835e-a8378dbd4485" /><br>
 *The question dictionary file*
 <br>
