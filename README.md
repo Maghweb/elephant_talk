@@ -1,18 +1,16 @@
 # The Elephant Talk project
-Elephant Talk is a youth active citizenship project created by Maghweb in collaboration with Impact Hub Labs, Polylogos and Young Educators funded by the EACEA in the CERV programme, Citizen’s Engagement and Participation strand. The project aims to engage young citizens across Europe in a collective, international collaborative data gathering and visualisation action against online gender-based hate speech with youth workers from their different communities. Through a series of international gender-sensitive data gathering and visualisation training events for youth workers, locally driven international data gathering and visualisation actions and active dialogue between young people and members of the EU parliament, the project will foster young people’s critical understanding and collective engagement with online gender-based hate speech as a systemic, EU-wide phenomenon.
+Elephant Talk is a youth active citizenship project created by Maghweb in collaboration with Impact Hub Labs, Polylogos and Young Educators funded by the EACEA in the CERV programme, Citizen’s Engagement and Participation strand. The project aims to engage young citizens across Europe in a collective, international collaborative data gathering and visualisation action against online gender-based hate speech with youth workers from their different communities. 
 
-👉 See the project's website: [stophatespeech.eu](www.stophatespeech.eu)
+**This repo contains the data collected through the Elephant Talk survey that ran until April 30th, 2025**. The survey has been administered through the open-source and GDPR-compliant platform [FormBricks](https://formbricks.com/). The survey was sent in 8 different language versions: Catalan, Croatian, Greek, Italian, Portuguese, Romanian, Slovenian, and Spanish. A total of 1.395 respondents began the survey, of which 706 (51%) completed all questions. The process of combining the 8 survey response files, one for each language, in a single cleaned English file has been achieved with a mix of Python, manual data cleaning, and assistance from Claude.ai, as detailed in the "Data Cleaning Documentation" file.
 
-## About this repo
-
-This repo contains the data collected through the Elephant Talk survey that ran until April 30th, 2025. The survey has been administered through the open-source and GDPR-compliant platform [FormBricks](https://formbricks.com/). The survey was sent in 8 different language versions: Catalan, Croatian, Greek, Italian, Portuguese, Romanian, Slovenian, and Spanish. The process of combining the 8 survey response files, one for each language, in a single cleaned English file has been achieved with a mix of Python, manual data cleaning, and assistance from Claude.ai, as detailed in the "Data Cleaning Documentation" file.
+👉 See full survey results: [stophatespeech.eu](www.stophatespeech.eu)
 
 ### In this repo you will find:
 
 #### RESULT FILES
 - The raw data files: one file for each language result, as outputted by FormBricks on April 30th, 2025.
 - The combined and translated result file; WIDE FORMAT: In this file, all language responses from the 8 files are combined, and each question contains both the original response and the translated response (with the suffix "_EN" in the column name. Multiple choice answers are separated by a pipe character ("|")
-- The combined and translated result file; LONG FORMAT: In this file, there is one row for each response given by each participant to each question.
+- The combined and translated result file; LONG FORMAT: In this file, there is one row for each response (english translation) given by each participant to each question.
 
 #### META
 - Documentation of the data cleaning process
